@@ -1,0 +1,4 @@
+discord.py-self
+httpx
+asyncio
+jsons
